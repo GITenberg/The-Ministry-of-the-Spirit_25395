@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31303
     wikipedia: http://en.wikipedia.org/wiki/Adoniram_Judson_Gordon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25395#The-Ministry-of-the-Spirit
 gutenberg_issued: '2008-05-08'
 gutenberg_type: Text
 identifiers:
